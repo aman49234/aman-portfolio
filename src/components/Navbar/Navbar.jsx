@@ -48,7 +48,7 @@ const Navbar = () => {
           <span className="text-[#8245ec]">&lt;</span>
           <span className="text-white">Aman</span>
           <span className="text-[#8245ec]">/</span>
-          <span className="text-white">Prasad</span>
+          <span className="text-white">Pra</span>
           <span className="text-[#8245ec]">&gt;</span>
         </div>
 
